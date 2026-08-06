@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Welcome to Blanco White Tech
 
-<!--
-**blancowhite-tech/blancowhite-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building enterprise infrastructure, cybersecurity labs and automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I document real-world IT projects focused on:
+
+- 🖥️ Windows Server 2025
+- 🏢 Active Directory
+- ☁️ Proxmox VE
+- 🐧 Linux Administration
+- ⚡ PowerShell Automation
+- 🐍 Python
+- 🔒 Cybersecurity
+- 🌐 Networking
+
+---
+
+## 🧪 Current Project
+
+### BW Enterprise Lab
+
+A professional homelab designed to simulate enterprise environments and improve hands-on skills in:
+
+- Enterprise Infrastructure
+- Virtualization
+- Identity Management
+- Automation
+- Security
+- Documentation
+
+---
+
+## 🛠️ Technologies
+
+- Windows Server
+- Active Directory
+- Proxmox VE
+- Linux
+- PowerShell
+- Python
+- Git & GitHub
+- Docker (Learning)
+- Networking
+- Cybersecurity
+
+---
+
+## 📚 Currently Learning
+
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+ (SY0-701)
+- Windows Server Administration
+- Enterprise Infrastructure
+- PowerShell Scripting
+- Python Automation
+
+---
+
+## 📫 Connect
+
+- LinkedIn *(coming soon)*
+
+---
+
+> **Build • Secure • Automate**
